@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title  >
+            Marcus Walker Personal Portfolio
+        </title>
+    </head>
+    <body>
+        <h1 style="color:maroon">
+            Marcus Walker
+        </h1>
+        <h3>
+            New Jersey Institute of Technology<br>Undergraduate Architecture Student<br>Class of 2028 #31631586
+        </h3>
+        <p style="color:darkslateblue" style="background-color:black">
+            Marcus Walker is an undergraduate student at NJIT. He is in the five year architecture program and will graduate in Spring of 2028. He was born in New Brunswick, New Jersey.<br>From the beginning of his life to 7th grade, he lived in North Brunswick, and has lived in South Brunswick ever since. From a young age, he planned on opening an architecture<br> and design firm with his twin sister, Mikayla (pictured below). She is an undergraduate interior design student at Drexel University. 
+        </p>
+        <a href= https://www.njit.edu/advising/hillier-college-architecture-and-design-hcad>Hillier College of Architecture and Design</a>
+        <img src="IMG_7676.JPG" alt="Grad Party Picture with Twin" width="500" height="500">
+    </body>
+</html>
