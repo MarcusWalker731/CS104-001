@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title> personal portfolio </title>
+    </head>
+    <Body background="c:\Users\pc\Desktop\archi\image.jpg"
+    <h1></h1>
+    <h2>Monica Maria Vazquez</h2>
+    <h3>Hillier College of Archecture and Design (HCAD)</h3>
+    <h3> Degree Program:Bachelor of architecture</h3>
+    <h4>UCID:mmv29</h4>
+    <p> I am a first year student majoring in architecture. I am currently 19 years old turnin 20 next year. I come from a hispanic background where my mom is from Meixco and my dad is from Guatemala. I have two siblings a sister and a brother. They both are still in high school. One thing about me is that I am a huge fan of Marvel. One of my favorite heros would have to be Black Widow. I also enjoy making 3d oragmis out of paper. I also enjoy hanging out with my old friends from highschool.</p>
+    <a href="https://www.njit.edu/">NJIT</a>
+    <br>
+    <img src="c:\Users\pc\Downloads\IMG-8036.jpg" width="250" height="350">
+    </Body>
+</html>
