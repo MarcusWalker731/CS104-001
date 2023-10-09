@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html> 
+    <head>
+        <title>My first webpage</title>
+        <link rel="stylesheet" href="style1.css">
+    </head>
+    <body>
+             <center>
+            <h1 style="color: red;" >Home Page</h1>
+            </center>
+          <h1>Monica Maria Vazquez</h1>
+            <h2>Hillier College of Archecture and Design</h2>
+            <h3>Degree Program:Bachelor of architecture</h3>
+            <h4>UCID:mmv29</h4>
+            <hr>
+            <p> 
+            I am a first year student majoring in architecture. I am currently 19 years old turnin 20 next year. I come from a hispanic background where my mom is from Meixco and my dad is from Guatemala. I have two siblings a sister and a brother. They both are still in high school. One thing about me is that I am a huge fan of Marvel. One of my favorite heros would have to be Black Widow. I also enjoy making 3d oragmis out of paper. I also enjoy hanging out with my old friends from highschool.
+            </p>
+            <hr>
+            <a href="https://www.njit.edu/">NJIT</a>
+            <br>
+            <img src="c:\Users\pc\Downloads\IMG-8035.jpg" width="250" height="350">
+            <img src="c:\Users\pc\Downloads\IMG-8036.jpg" width="250" height="350">
+            <head> 
+                <style>
+                    table {
+                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                        border-collapse: collapse;
+                        width: 100;
+                    }
+                </style>
+            </head>
+   
+     <div>
+        <table>
+           
+            <tr>
+                <th><h1>Education</h1></th>
+                <th><h1>Experience</h1></th>
+                <th><h1>Skills</h1></th>
+            </tr>
+            <tr>
+                <td>High School</td>
+                <td>Worked at a jewlery store</td> 
+                <td>Able to manage money</td>
+            </tr>
+        </table>
+        </div>
+            <div>
+                <form>
+                 <input type="text" placeholder="username"> <br> <br>
+                 <input type="password" placeholder="password"> <br> <br>
+                 <input type="file"> <br><br>
+                 <input type="radio" name="course"> Math 
+                 <input type="radio" name="course"> Computer Science
+                 <input type="radio" name="course"> Architecture <br> <br>
+                 <input type="checkbox"> Math 
+                 <input type="checkbox"> Computer Sciene
+                 <input type="checkbox"> Architecture
+                 <input type="date" >
+                 <input type="submit" value="submit">
+                 </form>
+            </div>
+        <div>
+    
+      <Ul>
+        <li>Architecture Studio</li>
+        <li>Freshman Year Seminar</li>
+        <li>Computer Sciene</li>
+        <li>Tools and Technique</li>
+     </Ul>
+     </div>
+    </body> 
+ </html>
