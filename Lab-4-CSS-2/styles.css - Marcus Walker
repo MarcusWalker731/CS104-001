@@ -1,0 +1,41 @@
+th{
+    background-color: lightgray;
+}
+
+table{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+th{
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+}
+
+.paragraph{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+a:visited{
+    color: gray;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active{
+    color: orange;
+}
