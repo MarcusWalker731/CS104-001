@@ -107,15 +107,21 @@
             img3
         </div>
         <p class="css">
-            Being at NJIT has been a challenging but valuable experience, the interacction with  the professors,<br>
-            and people from different backgrounds had been crucial ont this period of self-discovery and growth. <br>
+            Being at NJIT has been a challenging but valuable experience, the interaction with  the professors,<br>
+            and people from different backgrounds had been crucial in this period of self-discovery and growth. <br>
             It is a great experience understanding how the classes can be both demanding and fascinating, pushing <br>
             students to explore subjects they are passionate about.
         </p>
         <ul>
-            <li><a class="item-1">Item-1</a></li>
-            <li><a class="item-2"> Item-2 </a></li>
-            <li><a class="item-3"> Item-3 </a></li>
+            <li><a class="Link1" href="https://www.njit.edu/academics/degrees#/">
+                Item-1
+            </a></li>
+            <li><a class="Link2" href="https://www.njit.edu/academics/major/architecture">
+                Item-2
+            </a></li>
+            <li><a class="Link3" href="https://www.njit.edu/life/activities-organizations">
+                Item-3
+            </a></li>
         </ul>
     </body>
 </html>
