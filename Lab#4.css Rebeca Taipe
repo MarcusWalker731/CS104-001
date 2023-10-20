@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="style.css">
+        <title>
+            Rebeca Taipe Personal Portfolio
+        </title>
+        <h1 style="color: whitesmoke; background-color: darkolivegreen;">
+            Rebeca Taipe
+        </h1>
+    </head>
+<body>
+<h3>
+    New Jersey Institute of Technology<br>Undergraduate Architecture Student<br>Class of 2027 UCID: rt497
+    </h3>
+    <p style="color:brown" style="background-color: black;">
+    My name is Rebeca Taipe and I am in the Architecture program in NJIT, planning to graduate in 2027<br> I was born in Peru and came to the US when I was seven years old.<br>I wanted to become and Architect when I took my first class in Montclair Highschool.<br>
+    </p>
+    <a href="https://design.njit.edu/bachelor-architecture">J.Robert and Barbara A. Hillier College of Architecture and Design</a>
+    <img src="c:\Users\rtaip\OneDrive\Pictures\rebeca...jpg" alt="me"> 
+    <Table>
+        <tr>
+            <th>Education</th>
+            <th>Experience</th>
+            <th>Skills</th>
+        </tr>
+        <tr>
+            <td>NJIT Undergradueted Student</td>
+            <td>teller at Chase Bank</td>
+            <td>time management</td>
+        </tr>
+        <tr>
+            <td>Essex County College</td>
+            <td>teller at TD bank </td>
+            <td>money management</td>
+        </tr>
+    </Table>
+    </body>
+    <div style="Margin-top: 30px;">
+    <form>
+        <input type="text" placeholder="Username"> <br> <br>
+        <input type="text" placeholder="First Name"> <br><br>
+        <input type="text" placeholder="Last Name"><br><br>
+        <input type="email" placeholder="Email"><br><br>
+        <input type="file"> <br><br>
+        <input type="radio" name="course"> Math
+        <input type="radio" name="course">Computer Science
+        <input type="radio" name="course">Architecture<br><br>
+        <input type="checkbox" name="course">Math
+        <input type="checkbox" name="course">Computer Science 
+        <input type="checkbox" name="course">Architecture
+        <input type="submit" value="login">
+    </form>
+</div>
+<div>
+    <ul>
+    <li>Computer Science</li>
+    <li>Landscape and urbanism</li>
+    <li>Construction I</li>
+    <li>Enviromental Science</li>
+    </ul>
+</div>
+<div>
+    <style>
+        .img1{
+            height: 150px;
+            width: 150px;
+            border: 5px red dashed;
+            padding: 30px;
+        }
+        .img2{
+            height: 50%;
+            width: 150%;
+            border: 5px red dashed;
+            padding: 30px;
+        }
+        .img3{
+            height: 4in;
+            width: 3in;
+            border: 5px red dashed;
+            padding: 30px;
+        }
+    </style>
+</div>
+<div class="img1">
+    img1
+</div>
+<div class="img2">
+    img2
+</div>
+<div class="img3">
+    img3
+  </div>
+        <p class= "css">
+        This semester at NJIT has been a good experience because the professors are very engaging in the classes. <br>
+            In my classes I have met new people that have helped me adapt and have helped me with new information from NJIT <br>
+            it is my first semester at NJIT. Thanks to my classmates, my professors and my advisors I have been able to start adaping, however, <br>
+            I am still trying to adapt to this new school, I hope I keep meeting new people that are going to help me stay positive and graduate from NJIT.
+        </p>
+        <ul>
+            <li><a class="item-1">Item-1</a></li>
+            <li><a class="item-2"> Item-2 </a></li>
+            <li><a class="item-3"> Item-3 </a></li>
+        </ul>
+    </center>
+    </body>
+</html>
