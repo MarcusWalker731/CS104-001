@@ -1,0 +1,37 @@
+th{
+    background-color: lightgray;
+}
+
+table{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+th{
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+}
+.css{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 25px;
+  }
+  .item-1:hover {
+    color:red
+  }
+  .item-2:visited{
+    color:grey
+  }
+  .item-3:active{
+    color:orange
+  }
