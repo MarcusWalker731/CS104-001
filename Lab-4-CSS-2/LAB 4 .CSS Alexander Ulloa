@@ -26,12 +26,16 @@ td{
     font-family: monospace;
     font-size: 25px;
   }
-  .item-1:hover {
-    color:red
+ a.Link1:hover{
+    color: red;
   }
-  .item-2:visited{
-    color:grey
+  
+  
+  a.Link2:visited{
+    color: grey;
   }
-  .item-3:active{
-    color:orange
+  
+  
+  a.Link3:active{
+    color: orange;
   }
