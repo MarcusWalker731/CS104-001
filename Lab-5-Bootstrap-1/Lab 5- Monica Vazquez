@@ -160,7 +160,7 @@
                 <td>Computer Science</td>
             </tr>
             <tr>
-                <td>jane</td>
+                <td>Jane</td>
                 <td>Smith</td>
                 <td>Architecture</td>
             </tr>
@@ -182,7 +182,7 @@
             click here
         </button>
         <div class="collapse" id="demo">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, exercitationem!</p>
+            <p>Lorem ipsum dolor sit amet</p>
         </div>
     
         <div class="m-5 dropdown">
