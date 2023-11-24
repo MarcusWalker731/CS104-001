@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384" crossorigin="anonymous">
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384" crossorigin="anonymous"></script>
+            <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet"href="style.css">
+        <title >
+            Alexander Ulloa Personal Portfolio
+        </title>
+    </head>
+    <body>
+        <h1 style="background-color:rgb(205, 211, 182); color:rgb(111, 105, 212)"> Alexander. F Ulloa Bastidas</h1>
+        <h3>
+            New Jersey Institute of Technology<br>Undergraduated Architecture Student
+            <br>Class of 2027 
+            <br>ID: 31666317 
+            <br>Architecture Program
+        </h3>
+        <p style="color:grey" style="background-color:rgb(50, 161, 205)">
+            Alexander is an undergraduate student at the New Jersey Institute of Technology. 
+            His major is a five-year Bachelor of Architecture degree and he will be graduating on 2027. 
+            He was born in Quito, Ecuador. A tennis enthusiast, he came to the US at the age of 20 and since then he has been going to  shcool so he can be an architect that can make a difference in the world.
+        </p>
+        <a href= https://design.njit.edu>NJIT_HCAD</a><br>
+        <img src="/Users/alexulloa97/Downloads/IMG_8738.jpg" windth="300" height="300">
+            <body>
+                <h2 style="background-color:rgb(101, 143, 169)">Table </h2>
+            <Table>
+                <tr>
+                    <th>Education</th>
+                    <th>Experience</th>
+                    <th>Skills</th>
+                </tr>
+                <tr>
+                    <td> Undergraduate in ECC</td>
+                    <td>Work as pet groomer</td>
+                    <td> Tennis</td>
+                    <tr>
+                        <td> Undergraduate in NJIT </td>
+                        <td>Currently working on a Club </td>
+                        <td> Drums</td>
+                </tr>
+            </Table>
+            </body>
+            <div style="Margin-top:110px;"> 
+            <form>
+                <input type="text" placeholder="Username"> <br> <br>
+                <input type="text" placeholder="First Name"> <br><br>
+                <input type="text" placeholder="Last Name"><br><br>
+                <input type="email" placeholder="Email"><br><br>
+                <input type="file"> <br><br>
+                <input type="radio" name="course"> Math
+                <input type="radio" name="course">Computer Science
+                <input type="radio" name="course">Architecture
+                <input type="submit" value="login"><br><br>
+                <input type="checkbox" name="course">Math
+                <input type="checkbox" name="course">Computer Science 
+                <input type="checkbox" name="course">Architecture
+            </form>
+        </div>
+        <div>
+            <ul>
+            <li>Environmental Control Science</li>
+            <li> Computer science</li>
+            <li>Construction I</li>
+            <li>Landscape and urbanism</li>
+            </ul>
+        </div>
+        <div>
+          
+        </div>
+        <style>
+            .img1{
+                height: 150px;
+                width: 150px;
+                border: 5px;
+                border-color: red;
+                border-style: dashed;
+                padding:30px;
+            }
+        </style>
+        <style>
+             .img3{
+                height: 150px;
+                width: 150px;
+                border: 5px;
+                border-color: red;
+                border-style: dashed;
+                padding:30px;
+            }
+        </style>
+        <style>
+            .img2{
+                height: 5in;
+                width: 4in;
+                border: 5px;
+                border-color: red;
+                border-style: dashed;
+                padding:30px;
+            }
+        </style>
+        <div class="img1">
+            img1
+        </div>
+        <div class="img2">
+            img2
+        </div>
+        <div class="img3">
+            img3
+        </div>
+        <p class="css">
+            Being at NJIT has been a challenging but valuable experience, the interacction with  the professors,<br>
+            and people from different backgrounds had been crucial ont this period of self-discovery and growth. <br>
+            It is a great experience understanding how the classes can be both demanding and fascinating, pushing <br>
+            students to explore subjects they are passionate about.
+        </p>
+        <ul>
+            <li><a class="Link1" href="https://www.njit.edu/academics/degrees#/">
+                Item-1
+            </a></li>
+            <li><a class="Link2" href="https://www.njit.edu/academics/major/architecture">
+                Item-2
+            </a></li>
+            <li><a class="Link3" href="https://www.njit.edu/life/activities-organizations">
+                Item-3
+            </a></li>
+            <ul>
+                <li><a class="LabLink-1" href="https://www.njit.edu/academics/degrees#/">
+                    Item-1
+                </a></li>
+                <li><a class="LabLink-2" href="https://www.njit.edu/academics/major/architecture">
+                    Item-2
+                </a></li>
+                <li><a class="LabLink-3" href="https://www.njit.edu/life/activities-organizations">
+                    Item-3
+                </a></li>
+                <div class="dropdown">
+                    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">
+                      Dropdown button
+                    </button>
+                    <ul class="dropdown-menu">
+                         <li><a class="dropdown-item" href="https://www.njit.edu/">Link-1</a></li>
+                         <li><a class="dropdown-item" href="https://news.njit.edu/mens-soccer-welcomes-13-recruits-part-2022-incoming-class">Link-2</a></li>
+                         <li><a class="dropdown-item" href="https://www.njit.edu/development/">Link-3</a></li>
+                    </ul>
+                  </div>
+                  <div>
+    
+    
+                    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#demo">Simple collapsible</button>
+                 <div id="demo" class="collapse">
+                    Being at NJIT has been a challenging but valuable experience, the interacction with  the professors,<br>
+                    and people from different backgrounds had been crucial ont this period of self-discovery and growth. <br>
+                    It is a great experience understanding how the classes can be both demanding and fascinating, pushing <br>
+                    students to explore subjects they are passionate about.
+                 </div>
+               </div>
+        </ul>
+        <script>
+            let num1 = 12
+            let num2 = 6
+            
+            console.log(num1+num2)
+            console.log(num1-num2)
+            console.log(num1*num2)
+            
+            let score = 80
+            if (score >= 90) {
+                console.log('A')
+            }
+            else if(score >= 80){
+                console.log('B')
+            }
+            else if(score >= 70){
+                console.log('C')
+            }
+            else if(score >= 60){
+                console.log('D')
+            }
+            else {
+                console.log('F')
+            }
+            </script>
+              <br></br>
+             <button id="changeTextBtn">Try it</button>
+             <p id="DisplayText">Example text Alex Ulloa</p>
+             <script>
+                document.getElementById('changeTextBtn').onclick = DisplayText;
+                function DisplayText(){
+                    document.getElementById("DisplayText").innerHTML= "Hello, Javascript World!";
+                }
+               
+             </script>
+    </body>
+</html>
